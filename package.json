@@ -1,7 +1,7 @@
 {
-  "name": "vue-boilerplate",
+  "name": "vue-realize",
   "version": "1.0.0",
-  "description": "vue模板",
+  "description": "在vue里加注释，看vue如何实现",
   "main": "index.js",
   "scripts": {
     "start": "cross-env NODE_ENV=development webpack-dev-server --open",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mcdyzg/vue-boilerplate.git"
+    "url": "https://github.com/mcdyzg/vue-realize.git"
   },
   "keywords": [
     "vue",
@@ -20,9 +20,9 @@
   "author": "mcdyzg",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mcdyzg/vue-boilerplate/issues"
+    "url": "https://github.com/mcdyzg/vue-realize/issues"
   },
-  "homepage": "https://github.com/mcdyzg/vue-boilerplate#readme",
+  "homepage": "https://github.com/mcdyzg/vue-realize#readme",
   "devDependencies": {
     "autoprefixer": "^7.1.1",
     "babel-core": "^6.23.1",
